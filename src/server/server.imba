@@ -40,6 +40,8 @@ app.use do |err, req, res, next|
 
 const allowed = [
 		'http://localhost:8080'
+		'http://localhost:8000'
+		'http://localhost:2000'
 		'http://localhost:2020'
 		'https://dev.notion2anki.alemayhu.com'
 		'https://dev.notion.2anki.net'
